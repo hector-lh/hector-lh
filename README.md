@@ -1,3 +1,8 @@
+<!-- <img width="576" height="192" alt="Untitled" src="https://github.com/user-attachments/assets/0d683175-9294-418f-a6d9-88c64fe7529d" /> -->
+<div align="center">
+<img width="600px" alt="Untitled" src="https://github.com/user-attachments/assets/0d683175-9294-418f-a6d9-88c64fe7529d"/>
+</div>
+</br>
 ## Hi there, I'm Hector 👋
 
 I'm a Computer Science and Mathematics double major interested in combining mathematical foundation to CS and machine learning to create stuff that people use. I am a student athlete from Puebla, Mexico currently styding in York University. 
