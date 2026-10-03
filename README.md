@@ -12,3 +12,7 @@
 ![SQLite](https://img.shields.io/badge/SQLite-%2390D4F4?logo=sqlite)
 ![Python](https://img.shields.io/badge/Python-%233776AB?logo=python&logoColor=white)
 
+<h3>📱 Find Me Around the Internet</h3>
+
+[![Linkedin](https://img.shields.io/badge/Linked-in-%230077B5?logo=linkedin&labelColor=white)](www.linkedin.com/in/hector-lopez-h)
+[![Instagram](https://img.shields.io/badge/Instagram-%23C13584?logo=instagram)](https://www.instagram.com/hectorlh_?stkn=MWk0N3hzbHZnd3B0Yg%3D%3D&utm_source=qr)
