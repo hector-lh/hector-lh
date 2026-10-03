@@ -1,18 +1,2 @@
-<!-- <img width="576" height="192" alt="Untitled" src="https://github.com/user-attachments/assets/0d683175-9294-418f-a6d9-88c64fe7529d" /> -->
-<div align="center">
-<img width="600px" alt="Untitled" src="https://github.com/user-attachments/assets/0d683175-9294-418f-a6d9-88c64fe7529d"/>
-</div>
-</br>
-## Hi there, I'm Hector 👋
-
-I'm a Computer Science and Mathematics double major interested in combining mathematical foundation to CS and machine learning to create stuff that people use. I am a student athlete from Puebla, Mexico currently styding in York University. 
-
-- 🌱 I’m currently practicing my math and problem solving skills. I am learning how to use github and other tools to bring my ideas to reality and collaborate with other people from all around the world. I am also about to start my junior year at York University. 
-
-- 🔭 I’m currently working on a web app that gathers and displays stats from soccer player in the NAIA division like myself.
-
-- 📫 How to reach me:
-  - Email: hecttorlopez.h@gmail.com
-  - LinkedIn: www.linkedin.com/in/hector-lopez-h
-- 🤔 I’m looking for help with getting into the research world. 
-
+<h1><img src="assets/monkey.gif" width="50px"/>Hello! Welcome to my profile</h1>
+<p>I'm Hector! </br> I’m a Computer Science and Mathematics double major from <img src="assets/mexico-flag.webp" width="13"/> <b>Puebla, Mexico</b>, currently studying at <img src="assets/us-flag.webp" width="13"/><b>York University in Nebraska</b>.
