@@ -1,5 +1,5 @@
 <h1><img src="assets/monkey.gif" width="50px"/>Hello! Welcome to my profile</h1>
-<p>I'm Hector! </br> I’m a Computer Science and Mathematics double major from <img src="assets/mexico-flag.webp" width="13"/> <b>Puebla, Mexico</b>, currently studying at <img src="assets/us-flag.webp" width="13"/><b>York University in Nebraska</b>.
+<p>I'm Hector Lopez! </br> I’m a Computer Science and Mathematics double major from <img src="assets/mexico-flag.webp" width="13"/> <b>Puebla, Mexico</b>, currently studying at <img src="assets/us-flag.webp" width="13"/><b>York University in Nebraska</b>.
 
 <h3>Tools I use</h3>
 
